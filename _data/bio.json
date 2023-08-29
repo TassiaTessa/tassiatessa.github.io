@@ -24,19 +24,19 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "Css"]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Programs",
+      "keywords": [ "Microsoft Office", "Microsoft Excel", "Microsoft PowerPoint", "Adobe Photoshop", "Krita", "Sketch up", "UNIX" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Management Information Systems (expected Fall, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2021-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -44,69 +44,53 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of Hawaii Computer Sciences Department",
+      "position": "ICS 101 Teaching Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Assisting students with learning computer basics",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+       " Host a weekly open lab where I lead five assistants, I assign them to help any students that attend the lab. I focus on more difficult problems presented and help any assistant who struggles",
+"Create lesson plans that will engage the students with the content while teaching them key skills to succeed",
+"Have a strong understanding of HTML, CSS, UNIX, and Microsoft programs such as Word, Excel, and PowerPoint to be prepared to help teach students and assistants."
+
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "company": "Sodexo",
+      "position": "Marketing Intern",
+      "website": "hhttps://uhm.sodexomyway.com/",
+      "startDate": "2022-08-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+       " Work with programs like Krita and Powerpoint to design posters and graphics for events",
+"Organize and plan large events to encourage students to actively engage with the company ", 
+"Consistently post and monitor social media tied to the company, then analyze the posts to find what creates the most engagement. "
+
       ]
     }
   ],
+  "Activities": [
+    {
+      "organization": "National Center for Women in Technology",
+      "website": "https://ncwit.org/",
+      "position": "Student Ambassador",
+      "startDate": "2023-08-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Running outreach activities with the intention to spread the word about the AiC Community to members on their college campus", "Creating and promoting a friendly environment for women, genderqueer, and non-binary people in tech. "
+  
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Deans list",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii",
+      "summary": "The Dean's List recognizes students with a superior academic record, i.e., a minimum current grade point average of 3.5 for 12 or more credits of academic coursework."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
