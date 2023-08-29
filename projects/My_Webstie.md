@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/website_project.png
 title: "First Project"
 date: 2011-08-28
 published: true
