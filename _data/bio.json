@@ -1,25 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Tassia Corcoran",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/TassiaTessa.png",
+    "email": "Tassia@hawaii.edu",
+    "phone": "(909) 436-0137",
+    "website": "https://TassiaTessa.github.io",
+    "summary": "I am studying for a degree in Management Information Systems at the University of Hawaii. I expect to graduate in Fall, 2024.",
+    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "TassiaTessa", "url": "http://github.com/Tassiatessa" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/tassia-corcoran-b00574257" },
+      { "network": "instagram", "username": "TassiaJune", "url": "http://instagram.com/TassiaJune" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
+    { "name": "Microsoft Suite" },
+    { "name": "Art" },
+    { "name": "Virtual Reality and Augmented Reality" },
+    { "name": "Management" },
     { "name": "3D Graphics" }
   ],
   "skills": [
