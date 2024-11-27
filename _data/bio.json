@@ -1,17 +1,35 @@
 {
   "basics": {
     "name": "Tassia Corcoran",
-    "label": "Shidler Undergraduate",
+    "label": "Shidler Master's Student",
     "picture": "https://github.com/TassiaTessa.png",
     "email": "Tassia@hawaii.edu",
     "phone": "(909) 436-0137",
     "website": "https://TassiaTessa.github.io",
-    "summary": "I am studying for a degree in Management Information Systems at the University of Hawaii. I expect to graduate in Fall, 2024.",
-    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am pursuing a Master's in Management Information Systems at the University of Hawaii, with an expected graduation date of Fall 2024. I have experience in consulting, teaching, and project management, specializing in technology integration and database development.",
+    "location": {
+      "address": "",
+      "postalCode": "96816",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "TassiaTessa", "url": "http://github.com/Tassiatessa" },
-      { "network": "linkedin", "username": "Tassia Corcoran", "url": "https://www.linkedin.com/in/tassia-corcoran-b00574257" },
-      { "network": "instagram", "username": "TassiaJune", "url": "http://instagram.com/TassiaJune" }
+      {
+        "network": "github",
+        "username": "TassiaTessa",
+        "url": "http://github.com/TassiaTessa"
+      },
+      {
+        "network": "linkedin",
+        "username": "Tassia Corcoran",
+        "url": "https://www.linkedin.com/in/tassia-corcoran-b00574257"
+      },
+      {
+        "network": "instagram",
+        "username": "TassiaJune",
+        "url": "http://instagram.com/TassiaJune"
+      }
     ]
   },
   "interests": [
@@ -19,27 +37,44 @@
     { "name": "Art" },
     { "name": "Virtual Reality and Augmented Reality" },
     { "name": "Management" },
-    { "name": "3D Graphics" }
+    { "name": "3D Graphics" },
+    { "name": "Sustainable Tourism Development" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "HTML", "CSS"]
+      "keywords": ["HTML", "CSS", "SQL", "UNIX"]
     },
     {
       "name": "Programs",
-      "keywords": [ "Microsoft Office", "Microsoft Excel", "Microsoft PowerPoint", "Adobe Photoshop", "Krita", "Sketch up", "UNIX" ]
+      "keywords": [
+        "Microsoft Office",
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "Adobe Photoshop",
+        "Krita",
+        "SketchUp",
+        "Microsoft Access"
+      ]
+    },
+    {
+      "name": "Technical Skills",
+      "keywords": [
+        "Database Design",
+        "Workflow Management",
+        "Generative AI",
+        "Dependency Analysis Tools"
+      ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems (expected Fall, 2024)",
-      "studyType": "B.S.",
+      "area": "Management Information Systems",
+      "studyType": "M.S.",
       "startDate": "2021-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "endDate": "2024-12-01",
+      "courses": []
     }
   ],
   "work": [
@@ -49,12 +84,11 @@
       "website": "",
       "startDate": "2023-08-01",
       "endDate": "Present",
-      "summary": "Assisting students with learning computer basics",
+      "summary": "Teaching and guiding students in computer fundamentals and programming concepts.",
       "highlights": [
-       " Host a weekly open lab where I lead five assistants, I assign them to help any students that attend the lab. I focus on more difficult problems presented and help any assistant who struggles",
-"Create lesson plans that will engage the students with the content while teaching them key skills to succeed",
-"Have a strong understanding of HTML, CSS, UNIX, and Microsoft programs such as Word, Excel, and PowerPoint to be prepared to help teach students and assistants."
-
+        "Host weekly open labs with five assistants, ensuring smooth operation and supporting challenging tasks.",
+        "Develop engaging lesson plans to facilitate student understanding of HTML, CSS, UNIX, and Microsoft Office.",
+        "Provide mentorship to assistants and students, leveraging strong technical expertise."
       ]
     },
     {
@@ -63,36 +97,34 @@
       "website": "https://uhm.sodexomyway.com/",
       "startDate": "2022-08-01",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Designing marketing materials and planning engagement events.",
       "highlights": [
-       " Work with programs like Krita and Powerpoint to design posters and graphics for events",
-"Organize and plan large events to encourage students to actively engage with the company ", 
-"Consistently post and monitor social media tied to the company, then analyze the posts to find what creates the most engagement. "
-
+        "Create graphics for events using tools like Krita and PowerPoint.",
+        "Organize large-scale student engagement activities to promote company visibility.",
+        "Analyze social media data to identify trends and optimize engagement strategies."
       ]
     }
   ],
-  "Activities": [
+  "activities": [
     {
       "organization": "National Center for Women in Technology",
       "website": "https://ncwit.org/",
       "position": "Student Ambassador",
       "startDate": "2023-08-01",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Promoting inclusivity in technology fields.",
       "highlights": [
-        "Running outreach activities with the intention to spread the word about the AiC Community to members on their college campus", "Creating and promoting a friendly environment for women, genderqueer, and non-binary people in tech. "      ]
+        "Organize outreach activities to promote the AiC Community on campus.",
+        "Foster a supportive environment for women, genderqueer, and non-binary individuals in tech."
+      ]
     }
   ],
-  
   "awards": [
     {
-      "title": "Deans list",
+      "title": "Dean's List",
       "date": "2021-Present",
       "awarder": "University of Hawaii",
-      "summary": "The Dean's List recognizes students with a superior academic record, i.e., a minimum current grade point average of 3.5 for 12 or more credits of academic coursework."
-    },
-    {
+      "summary": "Recognized for achieving a GPA of 3.5 or higher each semester."
     }
   ],
   "references": [
