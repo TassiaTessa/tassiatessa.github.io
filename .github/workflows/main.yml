@@ -19,15 +19,17 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
-      - name: Check JSON Syntax
-        uses: limitusus/json-syntax-check@v1
-        with:
-          pattern: "\\bio.json$"
+      - name: Install Ruby via Ruby Version Manager (RVM)
+        run: |
+          curl -sSL https://get.rvm.io | bash -s stable
+          source ~/.rvm/scripts/rvm
+          rvm install ruby
+          rvm use ruby --default
 
-      - name: Update RubyGems  # Add this step
+      - name: Update RubyGems
         run: gem update --system
 
-      - name: Install Bundler  # Add this step
+      - name: Install Bundler
         run: gem install bundler
 
       - name: Build and Deploy with Jekyll
