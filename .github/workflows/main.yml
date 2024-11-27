@@ -12,25 +12,25 @@ jobs:
       - uses: actions/checkout@v2
       
       - name: Cache Gems
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
 
-      - name: Install Ruby via Ruby Version Manager (RVM)
-        run: |
-          curl -sSL https://get.rvm.io | bash -s stable
-          source ~/.rvm/scripts/rvm
-          rvm install ruby
-          rvm use ruby --default
+      - name: Check JSON Syntax
+        uses: limitusus/json-syntax-check@v1
+        with:
+          pattern: "\\bio.json$"
 
-      - name: Update RubyGems
-        run: gem update --system
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0'  # Specify the Ruby version you need
 
-      - name: Install Bundler
-        run: gem install bundler
+      - name: Install Dependencies
+        run: bundle install
 
       - name: Build and Deploy with Jekyll
         uses: helaili/jekyll-action@2.5.0
