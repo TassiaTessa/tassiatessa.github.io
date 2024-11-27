@@ -1,0 +1,34 @@
+name: Build and Deploy Jekyll Site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0  # Replace with your Ruby version
+
+      - name: Update RubyGems
+        run: gem update --system
+
+      - name: Install Bundler
+        run: gem install bundler
+
+      - name: Install Dependencies
+        run: bundle install
+
+      - name: Build and Deploy
+        uses: helaili/jekyll-action@2.5.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          target_branch: gh-pages
