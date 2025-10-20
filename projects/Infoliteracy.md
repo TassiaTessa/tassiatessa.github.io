@@ -14,7 +14,7 @@ labels:
 summary: "IRB-approved research examining student proficiency, ethics, and perceptions of generative AI through multi-phase studies."
 ---
 
-<img class="img-fluid" src="../img/ai-research/ai-literacy-header.png">
+<img class="img-fluid" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-rP2rXPHc9INQKw4sOSppNy_MnbghNTx_tg&s">
 
 ## Overview
 
@@ -54,7 +54,7 @@ This research was presented at the **EdMedia World Conference on Educational Tec
   <i class="file pdf icon"></i> View Full Paper (PDF)
 </a>
 
-</a>
+
 
 ## Impact
 
