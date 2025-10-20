@@ -50,7 +50,7 @@ This research was presented at the **EdMedia World Conference on Educational Tec
 
 ## Publication
 
-<a href="../img/ai-research/Informational_literacy_GenAI_Paper.pdf" target="_blank">
+<a href="../img/Informational_literacy_GenAI_Paper.pdf" target="_blank">
   <i class="file pdf icon"></i> View Full Paper (PDF)
 </a>
 
