@@ -12,3 +12,6 @@ gem "webrick", "~> 1.7"
 gem 'html-proofer'
 gem 'jekyll-gist'
 gem 'rouge'
+
+# Fix for Ruby 2.7 compatibility
+gem 'public_suffix', '~> 5.0'
