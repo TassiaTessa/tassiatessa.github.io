@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Tassia Corcoran",
-    "label": "Shidler Master's Student",
+    "label": "Master's Student in Information Systems",
     "picture": "https://github.com/TassiaTessa.png",
     "email": "Tassia@hawaii.edu",
     "phone": "(909) 436-0137",
     "website": "https://TassiaTessa.github.io",
-    "summary": "I am pursuing a Master's in Management Information Systems at the University of Hawaii, with an expected graduation date of Fall 2024. I have experience in consulting, teaching, and project management, specializing in technology integration and database development.",
+    "summary": "Technology professional with a strong foundation in generative AI, data systems, and enterprise IT strategy. Experienced in developing AI policy, designing training programs, and leading CRM data reconciliation and integration across academic, nonprofit, and defense-related environments. Currently pursuing a Master's in Information Systems at the University of Hawaii with a 4.0 GPA.",
     "location": {
       "address": "",
       "postalCode": "96816",
@@ -33,17 +33,17 @@
     ]
   },
   "interests": [
-    { "name": "Microsoft Suite" },
-    { "name": "Art" },
-    { "name": "Virtual Reality and Augmented Reality" },
-    { "name": "Management" },
-    { "name": "3D Graphics" },
-    { "name": "Sustainable Tourism Development" }
+    { "name": "Artificial Intelligence" },
+    { "name": "Cloud Computing" },
+    { "name": "Cybersecurity" },
+    { "name": "Data Systems" },
+    { "name": "Enterprise IT Strategy" },
+    { "name": "Network Security" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": ["HTML", "CSS", "SQL", "UNIX"]
+      "keywords": ["Python", "SQL", "HTML", "CSS", "UNIX"]
     },
     {
       "name": "Programs",
@@ -51,57 +51,163 @@
         "Microsoft Office",
         "Microsoft Excel",
         "Microsoft PowerPoint",
+        "Microsoft Access",
+        "Microsoft Power Automate",
         "Adobe Photoshop",
         "Krita",
-        "SketchUp",
-        "Microsoft Access"
+        "SketchUp"
       ]
     },
     {
       "name": "Technical Skills",
       "keywords": [
-        "Database Design",
-        "Workflow Management",
         "Generative AI",
-        "Dependency Analysis Tools"
+        "Database Design",
+        "CRM Integration",
+        "AWS Cloud Architecture",
+        "Network Security",
+        "Supply Chain Risk Management",
+        "Workflow Management",
+        "API Integration",
+        "Prompt Engineering"
+      ]
+    },
+    {
+      "name": "Certifications",
+      "keywords": [
+        "CompTIA Security+ (SYO-701)",
+        "AWS Certified Solutions Architect - Associate"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems",
+      "institution": "University of Hawaii at Mānoa, Honolulu, HI",
+      "area": "Information Systems (BAM program)",
       "studyType": "M.S.",
       "startDate": "2021-09-01",
+      "endDate": "2025-12-01",
+      "gpa": "4.0",
+      "courses": []
+    },
+    {
+      "institution": "University of Hawaii at Mānoa, Honolulu, HI",
+      "area": "Management Information Systems",
+      "studyType": "B.S.",
+      "startDate": "2021-09-01",
       "endDate": "2024-12-01",
+      "honors": "Cum Laude",
       "courses": []
     }
   ],
   "work": [
     {
-      "company": "University of Hawaii Computer Sciences Department",
-      "position": "ICS 101 Teaching Assistant",
+      "company": "University of Hawaii",
+      "position": "Curriculum Developer – MSIS Program (AI & Cloud Computing)",
       "website": "",
-      "startDate": "2023-08-01",
+      "startDate": "2025-08-01",
       "endDate": "Present",
-      "summary": "Teaching and guiding students in computer fundamentals and programming concepts.",
+      "summary": "Designing graduate-level curriculum for the Master's in Information Systems program.",
       "highlights": [
-        "Host weekly open labs with five assistants, ensuring smooth operation and supporting challenging tasks.",
-        "Develop engaging lesson plans to facilitate student understanding of HTML, CSS, UNIX, and Microsoft Office.",
-        "Provide mentorship to assistants and students, leveraging strong technical expertise."
+        "Developing technical modules covering AWS cloud architecture, certification preparation, and applied machine learning concepts",
+        "Creating hands-on labs and case studies to train students in cloud-based AI workflows and enterprise integration strategies",
+        "Designing curriculum focused on artificial intelligence and enterprise applications"
       ]
     },
     {
-      "company": "Sodexo",
-      "position": "Marketing Intern",
-      "website": "https://uhm.sodexomyway.com/",
-      "startDate": "2022-08-01",
+      "company": "Hawaii Community Foundation",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2025-02-01",
       "endDate": "Present",
-      "summary": "Designing marketing materials and planning engagement events.",
+      "summary": "Leading AI implementation and data management initiatives.",
       "highlights": [
-        "Create graphics for events using tools like Krita and PowerPoint.",
-        "Organize large-scale student engagement activities to promote company visibility.",
-        "Analyze social media data to identify trends and optimize engagement strategies."
+        "Designed and led company-wide training on Artificial Intelligence tools and concepts, creating use cases to evaluate AI-generated outputs",
+        "Successfully reconciled and validated over 100,000 records during Maui Strong donation processing",
+        "Co-authored and implemented AI policy guidelines to govern responsible AI use across organizational departments",
+        "Cleaned, consolidated, and integrated large-scale relational datasets across multiple CRM platforms",
+        "Worked with third-party APIs to streamline data flow and support advanced reporting"
+      ]
+    },
+    {
+      "company": "University of Hawaii",
+      "position": "Teaching Assistant – ITM 431/631 (Networking and Security)",
+      "website": "",
+      "startDate": "2025-01-01",
+      "endDate": "2025-05-01",
+      "summary": "Led lectures on networking and security fundamentals.",
+      "highlights": [
+        "Led lectures on foundational networking concepts, including LAN/WAN architecture, TCP/IP protocols, wireless standards, and network security principles",
+        "Guided students through hands-on exercises in configuring and analyzing network components",
+        "Graded and evaluated assignments for 50+ upper-level MIS students"
+      ]
+    },
+    {
+      "company": "Griffiss Institute",
+      "position": "Viceroy Maven Intern",
+      "website": "",
+      "startDate": "2025-06-01",
+      "endDate": "2025-08-01",
+      "summary": "DoD Pacific Intelligence & Innovation Initiative (P3I) cyber-spectrum operations internship.",
+      "highlights": [
+        "Worked under the Shipyard Infrastructure Optimization Program (SIOP) researching digital twin technologies for Pearl Harbor Navy Shipyard",
+        "Led AI implementation seminars, training professionals on practical use cases, policy, and ethical integration",
+        "Built a geodatabase that improved the Navy's ability to track hazardous waste, raw materials, and over $10M in equipment",
+        "Analyzed 7,000+ data points across 4 reports, identified 38+ unique equipment discrepancies, and visualized misalignments"
+      ]
+    },
+    {
+      "company": "University of Hawaii",
+      "position": "ICS 101 Teaching Assistant",
+      "website": "",
+      "startDate": "2023-08-01",
+      "endDate": "2025-05-01",
+      "summary": "Teaching and guiding students in computer fundamentals and programming concepts.",
+      "highlights": [
+        "Facilitated classes of 45 students on HTML, CSS, UNIX, and Microsoft programs",
+        "Designed and delivered hands-on training sessions introducing students to generative AI tools, responsible use, and prompt engineering",
+        "Mentored a team of 5 assistants during open lab hours",
+        "Successfully supported over 400 students through hands-on troubleshooting and technical support"
+      ]
+    },
+    {
+      "company": "University of Hawaii",
+      "position": "Research Assistant",
+      "website": "",
+      "startDate": "2023-08-01",
+      "endDate": "2025-05-01",
+      "summary": "Conducting IRB-approved research on generative AI in education.",
+      "highlights": [
+        "Conducted IRB-approved research on student proficiency, ethics, and perceptions of generative AI through multi-phase studies",
+        "Evaluated prompt engineering strategies for content generation and information queries",
+        "Applied ACRL standards to evaluate AI tool use in student writing and information literacy development",
+        "Co-authored and presented a peer-reviewed paper at an international conference"
+      ]
+    },
+    {
+      "company": "Independent Consultant",
+      "position": "Microsoft Programs & Computer Training",
+      "website": "",
+      "startDate": "2024-08-01",
+      "endDate": "Present",
+      "summary": "Providing expert consulting services and customized training seminars.",
+      "highlights": [
+        "Delivered customized training seminars on Microsoft programs and computer usage to management employees",
+        "Designed and facilitated interactive workshops, enhancing employees' proficiency in key Microsoft tools",
+        "Designed transition-oriented curricula tailored to adult learners unfamiliar with office productivity tools"
+      ]
+    },
+    {
+      "company": "SMX",
+      "position": "Project Finance and Export/Logistics Intern",
+      "website": "",
+      "startDate": "2024-06-01",
+      "endDate": "2024-08-01",
+      "summary": "Supply chain risk management for SOCPAC contracts.",
+      "highlights": [
+        "Enhanced SCRM processes by utilizing Microsoft Power Automate to streamline file management and schedule critical tasks",
+        "Collaborated with onsite teams to gather and analyze logistical data essential for contract fulfillment",
+        "Focused on supply chain risk management for SOCPAC contracts within the Export/Logistics division"
       ]
     }
   ],
@@ -109,13 +215,15 @@
     {
       "organization": "National Center for Women in Technology",
       "website": "https://ncwit.org/",
-      "position": "Student Ambassador",
+      "position": "Ambassador",
       "startDate": "2023-08-01",
-      "endDate": "Present",
-      "summary": "Promoting inclusivity in technology fields.",
+      "endDate": "2025-01-01",
+      "summary": "Advancing diversity in tech at UH Mānoa.",
       "highlights": [
-        "Organize outreach activities to promote the AiC Community on campus.",
-        "Foster a supportive environment for women, genderqueer, and non-binary individuals in tech."
+        "Established the NCWIT chapter at UH Mānoa to advance diversity in tech",
+        "Led outreach events promoting technology careers and academic support",
+        "Mentored students in tech courses and advised on career pathways",
+        "Collaborated with campus leadership and industry partners to drive inclusion in computing fields"
       ]
     }
   ],
@@ -125,6 +233,15 @@
       "date": "2021-Present",
       "awarder": "University of Hawaii",
       "summary": "Recognized for achieving a GPA of 3.5 or higher each semester."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Information Literacy: A Foundational Approach to Generative AI Competence",
+      "publisher": "EdMedia World Conference on Educational Technology",
+      "releaseDate": "2025-05-01",
+      "website": "",
+      "summary": "Presented at the EdMedia World Conference on Educational Technology, Barcelona, Spain, May 2025. Co-authored with C. Olsen."
     }
   ],
   "references": [
