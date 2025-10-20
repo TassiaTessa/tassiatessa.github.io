@@ -46,7 +46,9 @@ The research provided insights into how students can develop AI literacy as a fo
 
 This research was presented at the **EdMedia World Conference on Educational Technology** in Barcelona, Spain in May 2025.
 
-**Co-authored with:** Christopher Olsen
+**Co-authored with:** Cara Olson, Iowa State University, United States, colson6@iastate.edu,
+Branden Ogata, University of Hawaiʻi at Mānoa, United States, bsogata@hawaii.edu, and
+Michael-Brian Ogawa, University of Hawaiʻi at Mānoa, United States, ogawam@hawaii.edu
 
 ## Publication
 
