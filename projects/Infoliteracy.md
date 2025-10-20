@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ai-research/ai-literacy-square.png
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-rP2rXPHc9INQKw4sOSppNy_MnbghNTx_tg&s
 title: "Information Literacy: A Foundational Approach to Generative AI Competence"
 date: 2025-05
 published: true
@@ -50,8 +50,10 @@ This research was presented at the **EdMedia World Conference on Educational Tec
 
 ## Publication
 
-<a href="../pdf/ai-literacy-research.pdf" target="_blank">
+<a href="../img/ai-research/Informational_literacy_GenAI_Paper.pdf" target="_blank">
   <i class="file pdf icon"></i> View Full Paper (PDF)
+</a>
+
 </a>
 
 ## Impact
