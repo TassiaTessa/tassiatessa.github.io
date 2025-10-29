@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: essay
+type: essay
 title: Resume
 permalink: /resume/
 ---
