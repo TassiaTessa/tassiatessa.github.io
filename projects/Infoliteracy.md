@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-rP2rXPHc9INQKw4sOSppNy_MnbghNTx_tg&s
+image: ../img/edmedia.png
 title: "Information Literacy: A Foundational Approach to Generative AI Competence"
 date: 2025-05
 published: true
