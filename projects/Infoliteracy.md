@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img class="img-fluid" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-rP2rXPHc9INQKw4sOSppNy_MnbghNTx_tg&s">
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-rP2rXPHc9INQKw4sOSppNy_MnbghNTx_tg&s"
 title: "Information Literacy: A Foundational Approach to Generative AI Competence"
 date: 2025-05
 published: true
@@ -52,9 +52,19 @@ Michael-Brian Ogawa, University of Hawaiʻi at Mānoa, United States, ogawam@haw
 
 ## Publication
 
-<a href="../img/Informational_literacy_GenAI_Paper.pdf" target="_blank">
-  <i class="file pdf icon"></i> View Full Paper (PDF)
-</a>
+## Publication
+
+<div style="margin: 20px 0;">
+  <iframe src="../img/Informational_literacy_GenAI_Paper.pdf" width="100%" height="800px" style="border: 1px solid #ddd;">
+    <p>Your browser does not support PDF viewing. <a href="../img/Informational_literacy_GenAI_Paper.pdf" target="_blank">Click here to download the PDF</a></p>
+  </iframe>
+</div>
+
+<p style="text-align: center; margin-top: 10px;">
+  <a href="../img/Informational_literacy_GenAI_Paper.pdf" target="_blank">
+    <i class="file pdf icon"></i> Download PDF
+  </a>
+</p>
 
 
 
