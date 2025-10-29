@@ -28,14 +28,7 @@
 
     ]
   },
-  "interests": [
-    { "name": "Artificial Intelligence" },
-    { "name": "Cloud Computing" },
-    { "name": "Cybersecurity" },
-    { "name": "Data Systems" },
-    { "name": "Enterprise IT Strategy" },
-    { "name": "Network Security" }
-  ],
+
   "skills": [
     {
       "name": "Languages and Frameworks",
