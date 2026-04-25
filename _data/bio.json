@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "<strong>Tassia Corcoran</strong>",
-    "label": "<b>Candidate for Master of Science in Information Systems | BBA Management Information Systems | Researcher in Artificial Intelligence & Information Literacy</b>",
-    "picture": "https://github.com/TassiaTessa/tassiatessa.github.io/blob/main/img/Professional_pfp.jpeg?raw=true",
+    "name": "Tassia Corcoran",
+    "label": "AI Solutions Analyst | M.S. Information Systems | Researcher in Artificial Intelligence & Information Literacy",
+    "picture": "",
     "website": "https://TassiaTessa.github.io",
-    "summary": "Hi, I'm Tassia Corcoran. I'm passionate about using technology to make a real difference in education, business, and my community here in Hawaiʻi. My work focuses on artificial intelligence, data systems, and IT strategy, and I enjoy helping organizations use technology in ways that are practical, responsible, and empowering.<br><br>I've developed AI training programs, written policy guidelines, and worked on large data integration projects across academic, nonprofit, and defense settings. I love taking complex systems and turning them into tools that help people work smarter and with more confidence.",
+    "summary": "Technology professional with a strong foundation in generative AI, data systems, and enterprise IT strategy. Experienced in developing AI policy, designing training programs, and leading CRM data reconciliation and integration across academic, nonprofit, and defense-related environments. Skilled in translating complex technical concepts into practical solutions that improve workflows, support responsible AI use, and enhance organizational decision-making.",
     "location": {
       "address": "",
       "postalCode": "96816",
@@ -22,9 +22,10 @@
         "network": "linkedin",
         "username": "Tassia Corcoran",
         "url": "https://www.linkedin.com/in/tassia-corcoran-b00574257"
-      },
-
-    ]
+      }
+    ],
+    "phone": "909-436-0137",
+    "email": "Tassiacorcoran@gmail.com"
   },
 
   "skills": [
@@ -39,10 +40,7 @@
         "Microsoft Excel",
         "Microsoft PowerPoint",
         "Microsoft Access",
-        "Microsoft Power Automate",
-        "Adobe Photoshop",
-        "Krita",
-        "SketchUp"
+        "Microsoft Power Automate"
       ]
     },
     {
@@ -65,16 +63,24 @@
         "CompTIA Security+ (SYO-701)",
         "AWS Certified Solutions Architect - Associate"
       ]
+    },
+    {
+      "name": "Clearance",
+      "keywords": [
+        "Interim Secret Security Clearance (DoD – Pending)"
+      ]
     }
   ],
+
   "education": [
     {
       "institution": "University of Hawaii at Mānoa, Honolulu, HI",
-      "area": "Information Systems (BAM program)",
+      "area": "Information Systems",
       "studyType": "M.S.",
       "startDate": "2021-09-01",
       "endDate": "2025-12-01",
       "gpa": "4.0",
+      "honors": "Summa Cum Laude",
       "courses": []
     },
     {
@@ -87,80 +93,99 @@
       "courses": []
     }
   ],
+
   "work": [
+    {
+      "company": "aio Digital",
+      "position": "AI Solutions Analyst",
+      "location": "Honolulu, HI",
+      "startDate": "2026-01-01",
+      "endDate": "Present",
+      "summary": "AI data analytics and solutions role focused on large-scale dataset validation and generative AI deployment.",
+      "highlights": [
+        "Maintain and validate large-scale datasets (500,000+ records) to ensure accuracy, completeness, and readiness for analytics and reporting",
+        "Conduct data discovery and gap analysis, defining requirements and sourcing missing information to support operational decision-making",
+        "Develop measurement frameworks, dashboards, and assessment plans to track performance, investments, and outcomes across multiple projects",
+        "Analyze multi-source data to produce executive-ready insights, trends, and recommendations for stakeholders",
+        "Built and deployed a secure generative AI chatbot restricted to approved internal data, improving information retrieval speed and consistency for end users"
+      ]
+    },
     {
       "company": "University of Hawaii",
       "position": "Curriculum Developer – MSIS Program (AI & Cloud Computing)",
-      "website": "",
+      "location": "Honolulu, HI",
       "startDate": "2025-08-01",
-      "endDate": "Present",
-      "summary": "Designing graduate-level curriculum for the Master's in Information Systems program.",
+      "endDate": "2025-12-01",
+      "summary": "Designed graduate-level curriculum for the Master's in Information Systems program.",
       "highlights": [
+        "Designing graduate-level curriculum for the Master's in Information Systems program, focused on artificial intelligence and enterprise applications",
         "Developing technical modules covering AWS cloud architecture, certification preparation, and applied machine learning concepts",
-        "Creating hands-on labs and case studies to train students in cloud-based AI workflows and enterprise integration strategies",
-        "Designing curriculum focused on artificial intelligence and enterprise applications"
+        "Creating hands-on labs and case studies to train students in cloud-based AI workflows and enterprise integration strategies"
       ]
     },
     {
       "company": "Hawaii Community Foundation",
       "position": "Intern",
-      "website": "",
+      "location": "Honolulu, HI",
       "startDate": "2025-02-01",
-      "endDate": "Present",
-      "summary": "Leading AI implementation and data management initiatives.",
+      "endDate": "2025-12-01",
+      "summary": "Led AI implementation and data management initiatives.",
       "highlights": [
-        "Designed and led company-wide training on Artificial Intelligence tools and concepts, creating use cases to evaluate AI-generated outputs",
-        "Successfully reconciled and validated over 100,000 records during Maui Strong donation processing",
-        "Co-authored and implemented AI policy guidelines to govern responsible AI use across organizational departments",
-        "Cleaned, consolidated, and integrated large-scale relational datasets across multiple CRM platforms",
-        "Worked with third-party APIs to streamline data flow and support advanced reporting"
+        "Collaborated with internal departments to design and lead company-wide training on Artificial Intelligence tools and concepts, creating use cases to evaluate AI-generated outputs for accuracy, reliability, and business applicability",
+        "Successfully reconciled and validated over 100,000 records during Maui Strong donation processing, ensuring system-wide data accuracy across platforms",
+        "Co-authored and implemented AI policy guidelines to govern responsible AI use across organizational departments, considering both generative AI and machine learning capabilities in the workplace",
+        "Cleaned, consolidated, and integrated large-scale relational datasets across multiple CRM platforms to improve data integrity and reporting",
+        "Worked with third-party APIs to determine export methods for ingesting data from diverse external sources into organizational databases, streamlining data flow and supporting advanced reporting"
       ]
     },
     {
       "company": "University of Hawaii",
       "position": "Teaching Assistant – ITM 431/631 (Networking and Security)",
-      "website": "",
+      "location": "Honolulu, HI",
       "startDate": "2025-01-01",
-      "endDate": "2025-05-01",
+      "endDate": "2025-12-01",
       "summary": "Led lectures on networking and security fundamentals.",
       "highlights": [
         "Led lectures on foundational networking concepts, including LAN/WAN architecture, TCP/IP protocols, wireless standards, and network security principles",
-        "Guided students through hands-on exercises in configuring and analyzing network components",
-        "Graded and evaluated assignments for 50+ upper-level MIS students"
+        "Guided students through hands-on exercises in configuring and analyzing network components, fostering practical understanding of enterprise networking and cybersecurity frameworks",
+        "Graded and evaluated assignments, exams, and projects for 50+ upper-level MIS students, ensuring fair assessment and reinforcing key concepts in IT infrastructure design and threat mitigation"
       ]
     },
     {
       "company": "Griffiss Institute",
       "position": "Viceroy Maven Intern",
-      "website": "",
+      "location": "Honolulu, HI",
       "startDate": "2025-06-01",
       "endDate": "2025-08-01",
       "summary": "DoD Pacific Intelligence & Innovation Initiative (P3I) cyber-spectrum operations internship.",
       "highlights": [
-        "Worked under the Shipyard Infrastructure Optimization Program (SIOP) researching digital twin technologies for Pearl Harbor Navy Shipyard",
+        "Participated in the DoD Pacific Intelligence & Innovation Initiative (P3I) through a 7-week cyber-spectrum operations internship",
+        "Worked under the Shipyard Infrastructure Optimization Program (SIOP) by researching digital twin technologies for Pearl Harbor Navy Shipyard's (PHNSY) maintenance operations",
         "Led AI implementation seminars, training professionals on practical use cases, policy, and ethical integration",
         "Built a geodatabase that improved the Navy's ability to track hazardous waste, raw materials, and over $10M in equipment",
-        "Analyzed 7,000+ data points across 4 reports, identified 38+ unique equipment discrepancies, and visualized misalignments"
+        "Supported a multibillion-dollar waterfront production infrastructure project by analyzing 7,000+ data points across 4 reports using advanced Excel functions; identified 38+ unique equipment discrepancies, calculated square footage gaps, and visualized misalignments to guide decision-making"
       ]
     },
     {
       "company": "University of Hawaii",
       "position": "ICS 101 Teaching Assistant",
-      "website": "",
+      "location": "Honolulu, HI",
       "startDate": "2023-08-01",
       "endDate": "2025-05-01",
       "summary": "Teaching and guiding students in computer fundamentals and programming concepts.",
       "highlights": [
-        "Facilitated classes of 45 students on HTML, CSS, UNIX, and Microsoft programs",
+        "Facilitated classes of 45 students on HTML, CSS, UNIX, and Microsoft programs such as Word, Excel, PowerPoint, and Access",
         "Designed and delivered hands-on training sessions introducing students to generative AI tools, responsible use, and prompt engineering",
-        "Mentored a team of 5 assistants during open lab hours",
-        "Successfully supported over 400 students through hands-on troubleshooting and technical support"
+        "Developed practical exercises combining AI literacy with technical skills, including HTML, CSS, UNIX, and Microsoft Office applications",
+        "Mentored a team of 5 assistants during open lab hours, providing guidance on complex technical issues and instructional support",
+        "Collaborated with faculty to integrate AI literacy into core coursework and evaluate its effectiveness",
+        "Successfully supported over 400 students through hands-on troubleshooting, technical support, and targeted business software training"
       ]
     },
     {
       "company": "University of Hawaii",
       "position": "Research Assistant",
-      "website": "",
+      "location": "Honolulu, HI",
       "startDate": "2023-08-01",
       "endDate": "2025-05-01",
       "summary": "Conducting IRB-approved research on generative AI in education.",
@@ -168,41 +193,67 @@
         "Conducted IRB-approved research on student proficiency, ethics, and perceptions of generative AI through multi-phase studies",
         "Evaluated prompt engineering strategies for content generation and information queries",
         "Applied ACRL standards to evaluate AI tool use in student writing and information literacy development",
-        "Co-authored and presented a peer-reviewed paper at an international conference"
+        "Co-authored and presented a peer-reviewed paper on integrating generative AI into education at an international conference"
       ]
     },
     {
       "company": "Independent Consultant",
       "position": "Microsoft Programs & Computer Training",
-      "website": "",
+      "location": "Honolulu, HI",
       "startDate": "2024-08-01",
       "endDate": "Present",
       "summary": "Providing expert consulting services and customized training seminars.",
       "highlights": [
-        "Delivered customized training seminars on Microsoft programs and computer usage to management employees",
-        "Designed and facilitated interactive workshops, enhancing employees' proficiency in key Microsoft tools",
+        "Provided expert consulting services to companies, delivering customized training seminars on Microsoft programs and computer usage to management employees",
+        "Designed and facilitated interactive workshops, enhancing employees' proficiency in key Microsoft tools and improving overall productivity",
         "Designed transition-oriented curricula tailored to adult learners unfamiliar with office productivity tools"
       ]
     },
     {
       "company": "SMX",
       "position": "Project Finance and Export/Logistics Intern",
-      "website": "",
+      "location": "Kapolei, HI",
       "startDate": "2024-06-01",
       "endDate": "2024-08-01",
       "summary": "Supply chain risk management for SOCPAC contracts.",
       "highlights": [
-        "Enhanced SCRM processes by utilizing Microsoft Power Automate to streamline file management and schedule critical tasks",
-        "Collaborated with onsite teams to gather and analyze logistical data essential for contract fulfillment",
-        "Focused on supply chain risk management for SOCPAC contracts within the Export/Logistics division"
+        "Focused on supply chain risk management (SCRM) for SOCPAC contracts within the Export/Logistics division",
+        "Enhanced SCRM processes by utilizing Microsoft Power Automate to streamline file management and schedule critical tasks, including RIP (Request to Initiate Purchases) closeouts",
+        "Collaborated with onsite teams to gather and analyze logistical data essential for contract fulfillment"
       ]
     }
   ],
+
+  "mentorships": [
+    {
+      "organization": "Kekūhaupiʻo Tech Mentorship",
+      "position": "Mentee of Robert Redding, Vice President and Chief Technology Officer, HMSA",
+      "location": "Honolulu, HI",
+      "startDate": "2024-01-01",
+      "endDate": "2024-07-01",
+      "highlights": [
+        "Explored enterprise AI integration for information risk management",
+        "Observed technical leadership discussions around security, AI adoption, and enterprise IT risk controls"
+      ]
+    },
+    {
+      "organization": "Bank of Hawaii Mentorship Program",
+      "position": "Mentee of Preston Robler, Systems Automation and Security Manager, BOH",
+      "location": "Honolulu, HI",
+      "startDate": "2024-02-01",
+      "endDate": "2024-05-01",
+      "highlights": [
+        "Acquired comprehensive knowledge of IT services within the bank, including working with and updating Microsoft 365 on the back end and assisting employees with any issues regarding changes"
+      ]
+    }
+  ],
+
   "activities": [
     {
-      "organization": "National Center for Women in Technology",
+      "organization": "National Center for Women in Technology (NCWIT)",
       "website": "https://ncwit.org/",
       "position": "Ambassador",
+      "location": "University of Hawaii at Mānoa",
       "startDate": "2023-08-01",
       "endDate": "2025-01-01",
       "summary": "Advancing diversity in tech at UH Mānoa.",
@@ -214,6 +265,7 @@
       ]
     }
   ],
+
   "awards": [
     {
       "title": "Dean's List",
@@ -222,15 +274,18 @@
       "summary": "Recognized for achieving a GPA of 3.5 or higher each semester."
     }
   ],
+
   "publications": [
     {
       "name": "Information Literacy: A Foundational Approach to Generative AI Competence",
       "publisher": "EdMedia World Conference on Educational Technology",
       "releaseDate": "2025-05-01",
+      "location": "Barcelona, Spain",
       "website": "",
       "summary": "Presented at the EdMedia World Conference on Educational Technology, Barcelona, Spain, May 2025. Co-authored with C. Olsen."
     }
   ],
+
   "references": [
     {
       "name": "Available upon request"
