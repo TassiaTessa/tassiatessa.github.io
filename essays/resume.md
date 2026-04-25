@@ -12,7 +12,7 @@ permalink: /resume/
 </div>
 
 <p style="text-align: center; margin-top: 10px;">
-  <a href="../img/Resume_corcoran_10-2025.docx.pdf" download style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">
+  <a href="../img/MASTER_Corcoran_resume.docx.pdf" download style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">
     <i class="file pdf icon"></i> Download Resume
   </a>
 </p>
