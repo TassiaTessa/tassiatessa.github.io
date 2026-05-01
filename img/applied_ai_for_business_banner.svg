@@ -1,0 +1,50 @@
+<svg width="680" height="420" viewBox="0 0 680 420" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Applied AI for Business banner</title>
+  <desc>A clean professional banner with geometric accents in green and neutral tones</desc>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="680" height="420" fill="#f7f7f5"/>
+
+  <!-- Border accents -->
+  <rect x="0" y="0" width="6" height="420" fill="#3a7d5c"/>
+  <rect x="0" y="0" width="680" height="3" fill="#3a7d5c"/>
+  <rect x="0" y="417" width="680" height="3" fill="#3a7d5c"/>
+
+  <!-- Right panel -->
+  <rect x="520" y="0" width="160" height="420" fill="#eef2ee"/>
+  <line x1="520" y1="0" x2="520" y2="420" stroke="#d4ddd4" stroke-width="0.5"/>
+
+  <!-- Right panel circles - top cluster -->
+  <circle cx="560" cy="100" r="50" fill="none" stroke="#3a7d5c" stroke-width="0.5" opacity="0.5"/>
+  <circle cx="560" cy="100" r="34" fill="none" stroke="#3a7d5c" stroke-width="0.5" opacity="0.4"/>
+  <circle cx="560" cy="100" r="17" fill="#3a7d5c" opacity="0.15"/>
+
+  <!-- Right panel circles - bottom cluster -->
+  <circle cx="630" cy="310" r="65" fill="none" stroke="#7ab89a" stroke-width="0.5" opacity="0.5"/>
+  <circle cx="630" cy="310" r="42" fill="none" stroke="#7ab89a" stroke-width="0.5" opacity="0.4"/>
+  <circle cx="630" cy="310" r="17" fill="#7ab89a" opacity="0.2"/>
+
+  <!-- Connector lines -->
+  <line x1="540" y1="170" x2="590" y2="250" stroke="#3a7d5c" stroke-width="0.5" opacity="0.3"/>
+  <line x1="610" y1="100" x2="640" y2="230" stroke="#3a7d5c" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Left dot grid -->
+  <rect x="30" y="120" width="3" height="3" fill="#3a7d5c" opacity="0.4"/>
+  <rect x="42" y="120" width="3" height="3" fill="#3a7d5c" opacity="0.4"/>
+  <rect x="54" y="120" width="3" height="3" fill="#3a7d5c" opacity="0.4"/>
+  <rect x="30" y="132" width="3" height="3" fill="#3a7d5c" opacity="0.3"/>
+  <rect x="42" y="132" width="3" height="3" fill="#3a7d5c" opacity="0.3"/>
+  <rect x="54" y="132" width="3" height="3" fill="#3a7d5c" opacity="0.2"/>
+  <rect x="30" y="144" width="3" height="3" fill="#3a7d5c" opacity="0.2"/>
+  <rect x="42" y="144" width="3" height="3" fill="#3a7d5c" opacity="0.2"/>
+
+  <!-- Green accent bar -->
+  <rect x="30" y="195" width="44" height="2" fill="#3a7d5c" opacity="0.6"/>
+
+  <!-- Main title -->
+  <text x="30" y="275" font-family="Georgia, serif" font-size="64" font-weight="600" fill="#1a2e23" letter-spacing="-1">Applied AI</text>
+  <text x="30" y="348" font-family="Georgia, serif" font-size="64" font-weight="600" fill="#3a7d5c" letter-spacing="-1">for Business</text>
+
+  <!-- Subtitle -->
+  <text x="30" y="390" font-family="Arial, sans-serif" font-size="12" fill="#7a8c7a" letter-spacing="3">UNIVERSITY OF HAWAIʻI AT MĀNOA  ·  SHIDLER COLLEGE OF BUSINESS</text>
+</svg>
