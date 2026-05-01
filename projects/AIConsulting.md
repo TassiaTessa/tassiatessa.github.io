@@ -42,13 +42,13 @@ The foundational session demystifies AI at the conceptual level before moving in
 - **Why these distinctions matter** — most enterprise data analysis relies on Machine Learning, not Generative AI. Executives who don't understand the difference risk misaligned tool selection and governance gaps.
 
 <div style="margin: 30px 0;">
-  <iframe src="../img/AI_training_sample.pdf" width="100%" height="600px" style="border: 1px solid #ddd; border-radius: 4px;">
+  <iframe src="../img/AI_training_sample.pptx.pdf" width="100%" height="600px" style="border: 1px solid #ddd; border-radius: 4px;">
     <p>Your browser does not support PDF viewing. <a href="../img/AI_training_sample.pdf" target="_blank">Click here to download the sample slides</a></p>
   </iframe>
 </div>
 
 <p style="text-align: center; margin-top: 10px;">
-  <a href="../img/AI_training_sample.pdf" target="_blank">
+  <a href="../img/AI_training_sample.pptx.pdf" target="_blank">
     <i class="file pdf icon"></i> Download Sample Slides (PDF)
   </a>
 </p>
