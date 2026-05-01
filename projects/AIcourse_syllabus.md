@@ -3,7 +3,7 @@ layout: project
 type: project
 image: ../img/ai_course_thumbnail.png
 title: "Applied Artificial Intelligence for Business Implementation"
-date: 2026-08
+date: 2026-01
 published: true
 labels:
   - Artificial Intelligence
