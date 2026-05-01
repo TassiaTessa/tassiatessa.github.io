@@ -3,7 +3,7 @@ layout: project
 type: project
 image: ../img/executive-ai-consulting-thumbnail.svg
 title: "Executive AI Training & Consulting"
-date: 2026-01
+date: 2026-02
 published: true
 labels:
   - Artificial Intelligence
