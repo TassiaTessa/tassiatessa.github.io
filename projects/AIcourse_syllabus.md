@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/ai_course_thumbnail.png
+image: ../img/applied_ai_for_business_banner.svg
 title: "Applied Artificial Intelligence for Business Implementation"
 date: 2026-01
 published: true
