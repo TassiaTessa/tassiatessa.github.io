@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/ai_course_thumbnail.png
+image: ../img/executive-ai-consulting-thumbnail.svg
 title: "Executive AI Training & Consulting"
 date: 2026-01
 published: true
@@ -14,7 +14,7 @@ labels:
 summary: "Private AI consulting practice delivering foundational and advanced AI training to business executives and organizational leaders across Hawaii, with sessions ranging from 8 to 50 participants."
 ---
 
-<img class="img-fluid" src="../img/ai_course_thumbnail.png">
+<img class="img-fluid" src="../img/executive-ai-consulting-thumbnail.svg">
 
 ## Overview
 
