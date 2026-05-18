@@ -37,20 +37,7 @@ Students who complete this course will be able to:
 - **Manage data requirements** — Identify data labeling, taxonomy design, pipelines, feature engineering, vector databases, and synthetic data needs for AI projects
 - **Develop AI governance** — Create organizational AI policies covering acceptable use, risk management, data stewardship, and regulatory compliance
 
-## Syllabus
-
-<div style="margin: 20px 0;">
-  <iframe src="../img/Corcoran_AICourse_Syllabus.pdf" width="100%" height="800px" style="border: 1px solid #ddd;">
-    <p>Your browser does not support PDF viewing. <a href="../img/Corcoran_AICourse_Syllabus.pdf" target="_blank">Click here to download the PDF</a></p>
-  </iframe>
-</div>
-
-<p style="text-align: center; margin-top: 10px;">
-  <a href="../img/Corcoran_AICourse_Syllabus.pdf" target="_blank">
-    <i class="file pdf icon"></i> Download Full Syllabus (PDF)
-  </a>
-</p>
-
+## Syllabus <div style="margin: 20px 0;"> <iframe src="../img/Corcoran_AICourse_Syllabus.pdf" width="100%" height="800px" style="border: 1px solid #ddd;"> <p>Your browser does not support PDF viewing. <a href="../img/Corcoran_AICourse_Syllabus.pdf" target="_blank">Click here to download the PDF</a></p> </iframe> </div> <p style="text-align: center; margin-top: 10px;"> <a href="../img/Corcoran_AICourse_Syllabus.pdf" target="_blank"> <i class="file pdf icon"></i> Download Full Syllabus (PDF) </a> </p>
 ## Impact
 
 This project reflects a growing need in graduate business education for professionals who can lead AI adoption — not just understand it. By developing this curriculum, I created a structured pathway that integrates technical literacy, implementation strategy, and responsible governance into a single graduate-level course.
