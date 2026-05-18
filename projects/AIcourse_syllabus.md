@@ -15,7 +15,7 @@ labels:
 summary: "A graduate-level elective course curriculum I developed for MIS and MSIS students at the University of Hawaiʻi at Mānoa Shidler College of Business, focused on AI architectures, data pipelines, governance frameworks, and responsible AI implementation."
 ---
 
-<img class="img-fluid" src="../img/ai-course-banner.png">
+
 
 ## Overview
 
